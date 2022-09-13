@@ -1,0 +1,10 @@
+ Volume in drive C is OSDisk
+ Volume Serial Number is A6C0-67DB
+
+ Directory of C:\Users\cbanala\Desktop\MyProject
+
+09/12/2022  09:37 PM    <DIR>          .
+09/12/2022  09:37 PM    <DIR>          ..
+09/12/2022  09:37 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  94,483,656,704 bytes free
